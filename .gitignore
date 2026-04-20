@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.local
+.netlify/
+vite-dev.log
+vite-dev-err.log
+.claude/
